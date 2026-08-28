@@ -102,6 +102,3 @@ git
 
 Ищу возможности для **стажировок** и **junior позиций** в сфере QA! Готов учиться, развиваться и применять свои аналитические навыки на практике.
 
----
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=testrusau)
