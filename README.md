@@ -93,6 +93,14 @@
 </div>
 
 ---
+##  Мои проекты и артефакты
+
+- **🛒 [Webshop Testing](https://github.com/dm-frolov/web-shop-testing)** — exploratory и функциональное веб-тестирование
+- **🔌 [API Testing](https://github.com/dm-frolov/API-Testing)** — REST и SOAP API тестирование с Postman
+- **💾 [SQL](https://github.com/dm-frolov/SQL)** — SQL-запросы и валидация данных
+- **📱 [Android App Testing](https://github.com/dm-frolov/Android-App-Testing)** — ручное тестирование мобильного приложения, тест-кейсы и баг-репорты
+- **️ [Charles Proxy](https://github.com/dm-frolov/Charles-Proxy)** — инспекция сетевого трафика и модификация ответов
+- **💻 [Bash](https://github.com/dm-frolov/Bash)** — командная строка и скрипты для QA задач
 
 ### 💼 Открыт к предложениям:
 
