@@ -76,4 +76,4 @@
 - **Telegram:** [@dmitryfrolovzxn](https://t.me/dmitryfrolovzxn)
 - **GitHub:** [dm-frolov](https://github.com/dm-frolov)
 
-*Предыдущие учебные проекты по тестированию ПО остаются доступными в репозиториях профиля.*
+
