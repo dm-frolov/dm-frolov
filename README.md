@@ -1,108 +1,79 @@
-# Здравствуйте, меня зовут Дмитрий! 👋
+# Привет! Я Дмитрий 👋
+
+### Data Analytics · Python · SQL · Machine Learning
+
+Магистрант теоретической физики. Интересуюсь анализом данных, машинным обучением и применением математических методов к практическим задачам.
+
+Мой путь в аналитику начался с физики: лабораторные исследования, обработка результатов измерений, статистический анализ, моделирование и визуализация данных. В учебных и исследовательских проектах работаю с Python, SQL и методами машинного обучения. Сейчас развиваю навыки бизнес-аналитики и BI — от получения данных и расчёта показателей до их интерпретации и представления результатов.
 
 ---
 
-### 👨‍🔬 Обо мне:
+## 🛠 Технологии и инструменты
 
-**Магистрант (Теоретическая физика) | 🔬 Исследователь ИИ | 💻 Начинающий QA Engineer**
+**Работа с данными:** `Python` · `SQL` · `PostgreSQL` · `pandas` · `NumPy`
 
-Привет! Я начинающий тестировщик ПО с сильным аналитическим бэкграундом. Сочетаю точность и системность физика с методичностью QA-инженера.
+**BI и визуализация:** `Power BI` · `Power Query` · `DAX` · `Matplotlib` · `Seaborn`
 
-🎓 **Образование:**
+**Машинное обучение:** `scikit-learn` · `LightGBM` · `XGBoost` · `CatBoost`
 
+**Инструменты:** `Jupyter Notebook` · `Google Colab` · `DBeaver` · `Git` · `GitHub` · `VS Code`
+
+---
+
+## 📊 Проекты
+
+### 🛒 [Olist Sales Analytics — аналитика продаж](https://github.com/dm-frolov/olist-sales-analytics)
+
+**PostgreSQL · SQL · Power BI · DAX**
+
+Исследование заказов бразильского маркетплейса Olist: расчёт ключевых метрик, анализ динамики продаж, регионов, категорий товаров и способов оплаты.
+
+- Загрузил данные в PostgreSQL и подготовил аналитические SQL-запросы с объединением таблиц, агрегациями, CTE и оконными функциями.
+- Построил модель данных и интерактивный отчёт Power BI с мерами DAX.
+- Для периода январь 2017 — август 2018 года получил следующие показатели доставленных заказов: **≈ 13,07 млн R$** стоимости товаров, **≈ 95 тыс.** заказов и **136,91 R$** средней стоимости товаров на заказ.
+
+[![Дашборд Olist](https://github.com/dm-frolov/olist-sales-analytics/raw/main/dashboard/dashboard_preview.png)](https://github.com/dm-frolov/olist-sales-analytics)
+
+[SQL и описание проекта](https://github.com/dm-frolov/olist-sales-analytics) · [PDF-отчёт](https://github.com/dm-frolov/olist-sales-analytics/blob/main/dashboard/Olist_Sales_Analytics.pdf)
+
+### 🔭 [MAGIC Gamma Telescope — классификация событий](https://github.com/dm-frolov/magic-gamma-classification)
+
+**Python · Machine Learning · scikit-learn · LightGBM**
+
+Учебный ML-проект по классификации гамма-событий и адронного фона на моделированных данных телескопа MAGIC.
+
+- Исследовал **19 020 наблюдений** с десятью числовыми признаками.
+- Провёл разведочный анализ данных, предобработку и сравнение алгоритмов классификации.
+- Использовал кросс-валидацию, F1, ROC-AUC, матрицу ошибок; изучал способы работы с дисбалансом классов.
+- **LightGBM:** F1 на кросс-валидации **0,9115**, ROC-AUC на тестовой выборке **0,9425**.
+
+[Исследование и ноутбук](https://github.com/dm-frolov/magic-gamma-classification)
+
+---
+
+## 🎓 Образование
+
+**Ярославский государственный университет им. П. Г. Демидова**
+
+- **Магистратура:** «Теоретическая физика» — обучаюсь.
 - **Высшее образование:** Степень бакалавра по направлению «Теоретическая физика и компьютерные технологии»
 - **Дополнительное профессиональное образование:** Программа «Программирование и введение в базы данных»
 - **Сертификация:** ["Тестирование ПО"](https://stepik.org/cert/3329759) (Stepik)
 
+---
 
-🔬 **Сфера интересов:**
-- Тестирование ПО
-- Искусственный интеллект и машинное обучение
+## 🎯 Профессиональные интересы
 
-💡 **Мои преимущества:**
-✓ Аналитический склад ума 
-✓ Внимание к деталям и точность  
-✓ Умение работать с большими объемами информации  
-✓ Быстрое освоение новых технологий  
+Аналитика данных и BI · исследовательский анализ данных (EDA) · статистика и проверка гипотез · Machine Learning · автоматизация работы с данными на Python.
 
-🎯 **Цель:** Развитие в сфере QA и тестирования программного обеспечения
-
-📫 **Как связаться со мной:** [![Email](https://img.shields.io/badge/-Email-005FF9?style=flat&logo=mail.ru&logoColor=white)](mailto:d.frolov9@mail.ru)
---- 
-
-### 🤝 Социальные сети:
-
-  <div id="badges">
-    <a href="https://vk.ru/znxsrn" target="_blank">
-      <img src="https://cdn.simpleicons.org/vk/0077FF" width="40" height="40" alt="ВКонтакте" />
-    </a>
-    <a href="https://t.me/dmitryfrolovzxn" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
-    </a>
-  </div>
+Ищу **стажировку или Junior-позицию в Data Analytics / BI** с перспективой развития в Data Science и ML.
 
 ---
 
-###  Разрабатывал тестовую документацию:
+## 📬 Контакты
 
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" title="jira" alt="jira" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="postman" alt="postman" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="devtools" alt="devtools" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp
-</div>
+- **Email:** [d.frolov9@mail.ru](mailto:d.frolov9@mail.ru)
+- **Telegram:** [@dmitryfrolovzxn](https://t.me/dmitryfrolovzxn)
+- **GitHub:** [dm-frolov](https://github.com/dm-frolov)
 
----
-
-### 🛠 Работал с инструментами тестирования:
-
-<div>
-  <img src="https://codahosted.io/packs/21236/unversioned/assets/LOGO/ba1091c59bab89cd2fd0f289622731fe16113d7b00905abe64759c313a4b73b76c1b0426076ed76cb74752234c734131df46992d5b8b48fc13e264240e4f7119f736cfeb64df36ded54b5cbf6198b9cadedf18dd0cac5c7dbcd16e6336c29363cd1292ba" title="testrail" alt="testrail" width="40" height="40"/>&nbsp
-  <img src="https://luna1.co/eb0187.png" title="qase" alt="qase" width="40" height="40"/>&nbsp
-</div>
-
----
-
-### 💻 Тестирование мобильных и веб-приложений:
-
-<div>
-  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png" title="DevTools" alt="devtools" width="40" height="40"/>&nbsp;
-  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png" title="Postman" alt="postman" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/charles" alt="Charles" title="Charles Proxy" width="40" height="40"/>
-</div>
-
----
-
-### 💾 Работа с данными:
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
-</div>
-
----
-
-### ✏️ Работа с кодом:
-
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" alt="bash" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp
-</div>
-
----
-##  Мои проекты и артефакты
-
-- **🛒 [Webshop Testing](https://github.com/dm-frolov/web-shop-testing)** — exploratory и функциональное веб-тестирование
-- **🔌 [API Testing](https://github.com/dm-frolov/API-Testing)** — REST и SOAP API тестирование с Postman
-- **💾 [SQL](https://github.com/dm-frolov/SQL)** — SQL-запросы и валидация данных
-- **📱 [Android App Testing](https://github.com/dm-frolov/Android-App-Testing)** — ручное тестирование мобильного приложения, тест-кейсы и баг-репорты
-- **️ [Charles Proxy](https://github.com/dm-frolov/Charles-Proxy)** — инспекция сетевого трафика и модификация ответов
-- **💻 [Bash](https://github.com/dm-frolov/Bash)** — командная строка и скрипты для QA задач
-
-### 💼 Открыт к предложениям:
-
-Ищу возможности для **стажировок** и **junior позиций** в сфере QA! Готов учиться, развиваться и применять свои аналитические навыки на практике.
-
+*Предыдущие учебные проекты по тестированию ПО остаются доступными в репозиториях профиля.*
