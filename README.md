@@ -47,7 +47,7 @@
 
 ## Навыки и инструменты
 
-- **Анализ данных:** SQL, PostgreSQL, Python, pandas, NumPy, EDA, статистика.
+- **Анализ данных:** SQL, PostgreSQL, Python, pandas, NumPy, EDA.
 - **SQL:** JOIN, агрегирование, GROUP BY, HAVING, подзапросы, CTE, оконные функции.
 - **Визуализация и отчётность:** Power BI, Power Query, DAX, Matplotlib, Seaborn.
 - **Машинное обучение:** scikit-learn, LightGBM, XGBoost, CatBoost, imbalanced-learn; PyTorch.
